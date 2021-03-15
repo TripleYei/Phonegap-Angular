@@ -1,3 +1,3 @@
 # Phonegap-Angular
-<img src="phonegap.png"/>
-<img src="angular.png"/>
+<img src="phonegap.PNG"/>
+<img src="angular.PNG"/>
